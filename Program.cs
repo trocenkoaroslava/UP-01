@@ -4,42 +4,57 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp_Tema3
+namespace PracticalTask2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string hello = "Helllo, my friend!";
-            Print(hello);
-            void Print(string message)
-            {
-                Console.WriteLine(message);
-            }
-            Person vic = new Person("Victoriya");
-            vic.Print();
+            // Задание 1
+            Console.WriteLine("Задание 1: Калькулятор");
+            Calculator calc = new Calculator();
+            Console.WriteLine("Сумма (10 + 5)= " + calc.Add(10, 5));
+            Console.WriteLine("Частное (10 / 5)= " + calc.GetQuotient(10, 5));
 
-            vic.SayBye();
-            Console.WriteLine("Сумма: " + vic.Add(5, 5));
-            Console.WriteLine("Деление: " + vic.Div(10, 2));
-            Console.WriteLine("Имя из метода: " + vic.GetName());
+            // Задание 2
+            Console.WriteLine("\n Задание 2: Пользователь");
+            User u = new User();
+
+            // Запрашиваем данные у пользователя
+            Console.Write("Введите ID пользователя (число): ");
+            u.Id = int.Parse(Console.ReadLine());
+
+            Console.Write("Введите имя (Username): ");
+            u.Username = Console.ReadLine();
+
+            Console.Write("Введите Email: ");
+            u.Email = Console.ReadLine();
+
+            // Выводим результат
+            Console.WriteLine("\nДанные сохранены:");
+            u.DisplayInfo();
+
+            Console.ReadKey();
         }
-        //static void Main(string[] args)
-        //{
-        //    Person vic = new Person("Victoriya");
-        //    vic.Print();
+    }
 
-        //    Console.WriteLine("Введите целое число: ");
-        //    int n;
-        //    if(int.TryParse(Console.ReadLine(), out n))
-        //    {
-        //        n -= 123;
-        //        Console.WriteLine($"Результат:{(n > 0 ? 3 * n : -n)}");
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("Неправильный формат ввода!");
-        //    }
-        //}
+    public class Calculator
+    {
+        public int Add(int a, int b) => a + b;
+
+        private double Dev(int a, int b) => b == 0 ? 0 : (double)a / b;
+
+        // Обертка для вызова
+        public double GetQuotient(int a, int b) => Dev(a, b);
+
+    }
+
+    public class User
+    {
+        public int Id { get; set; }
+        public string Username { get; set; }
+        public string Email { get; set; }
+
+        public void DisplayInfo() => Console.WriteLine($"ID: {Id}, Имя: {Username}, Email: {Email}");
     }
 }
