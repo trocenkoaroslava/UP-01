@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\MyLibrary\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\admin\Desktop\MyLibrary\TestApp\bin\Debug\TestApp.exe
+C:\Users\admin\Desktop\MyLibrary\TestApp\bin\Debug\TestApp.pdb
+C:\Users\admin\Desktop\MyLibrary\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MyLibrary\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MyLibrary\TestApp\obj\Debug\TestApp.exe
+C:\Users\admin\Desktop\MyLibrary\TestApp\obj\Debug\TestApp.pdb
+C:\Users\admin\Desktop\MyLibrary\TestApp\bin\Debug\MyLibrary.dll
+C:\Users\admin\Desktop\MyLibrary\TestApp\bin\Debug\MyLibrary.pdb
+C:\Users\admin\Desktop\MyLibrary\TestApp\obj\Debug\TestApp.csproj.Up2Date
