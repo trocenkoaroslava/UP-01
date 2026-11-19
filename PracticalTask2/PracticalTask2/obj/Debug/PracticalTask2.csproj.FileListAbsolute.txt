@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\bin\Debug\PracticalTask2.exe.config
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\bin\Debug\PracticalTask2.exe
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\bin\Debug\PracticalTask2.pdb
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\obj\Debug\PracticalTask2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\obj\Debug\PracticalTask2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\obj\Debug\PracticalTask2.exe
+C:\Users\admin\Desktop\PracticalTask2\PracticalTask2\obj\Debug\PracticalTask2.pdb
