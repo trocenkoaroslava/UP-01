@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\bin\Debug\ConsoleApp_Tema5.exe.config
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\bin\Debug\ConsoleApp_Tema5.exe
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\bin\Debug\ConsoleApp_Tema5.pdb
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\obj\Debug\ConsoleApp_Tema5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\obj\Debug\ConsoleApp_Tema5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\obj\Debug\ConsoleApp_Tema5.exe
+C:\Users\admin\Desktop\ConsoleApp_Tema5\ConsoleApp_Tema5\obj\Debug\ConsoleApp_Tema5.pdb
