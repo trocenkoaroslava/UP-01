@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\bin\Debug\ConsoleApp_Tema7.exe.config
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\bin\Debug\ConsoleApp_Tema7.exe
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\bin\Debug\ConsoleApp_Tema7.pdb
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\obj\Debug\ConsoleApp_Tema7.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\obj\Debug\ConsoleApp_Tema7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\obj\Debug\ConsoleApp_Tema7.exe
+C:\Users\admin\Desktop\ConsoleApp_Tema7\ConsoleApp_Tema7\obj\Debug\ConsoleApp_Tema7.pdb
